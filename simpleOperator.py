@@ -1,5 +1,5 @@
 
-#// @I think "raw_input() is only supported above python2 ?"
+#// @I think "raw_input() is only supported under python2 ?"
 #raw_input( 'Ready to use score calculator(y/n)' )
 input( 'Ready to use score calculator(y/n)' )
 
